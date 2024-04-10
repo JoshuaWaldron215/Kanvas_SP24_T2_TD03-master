@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ConsoleMenu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ConsoleMenu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
